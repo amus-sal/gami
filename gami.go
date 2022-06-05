@@ -5,7 +5,7 @@
 // Package gami provites primitives for interacting with Asterisk AMI
 
 
-Basic Usage
+/*Basic Usage
 
 
 	ami, err := gami.Dial("127.0.0.1:5038")
